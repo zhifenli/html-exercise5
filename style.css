@@ -1,3 +1,6 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 img {
     display: block;
     max-width: 100%;
@@ -45,9 +48,18 @@ footer {
     background-color: #446b0b;
     magin: 0;
     padding: 20px 20px 20px 20px;
+    font-family: 'Titillium Web', sans-serif;
+}
+header {
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: 700;
 }
 
 .container {
     max-width: 906px;
     margin: 0 auto;
+}
+.logo {
+    font-family: 'Balsamiq Sans', cursive;
+    color: red;
 }
